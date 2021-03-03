@@ -45,11 +45,10 @@
 // name="Mustafa";
 // console.log(name);
 
-const a=[1,2,3];
-console.log(a);
-a.push(6);
-console.log(a);
-
+// const a=[1,2,3];
+// console.log(a);
+// a.push(6);
+// console.log(a);
 
 
 
